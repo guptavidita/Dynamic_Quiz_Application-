@@ -53,8 +53,8 @@ text
 👤 Author
 
 - Vidita Gupta   
-- GitHub: [https://github.com/YOUR-USERNAME](https://github.com/YOUR-USERNAME)  
-- LinkedIn: [Your LinkedIn Profile Link]  
+- GitHub: https://github.com/guptavidita
+- LinkedIn: https://www.linkedin.com/in/guptavidita/ 
 
 
 🎉 Thank you for trying out the Dynamic Quiz Application!  
